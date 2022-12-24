@@ -1,7 +1,7 @@
 # E-Commerce-Cart
 
 ## Description
-E-Commerece-Cart is a general template page for an E-Commerce site whose main feature is its cart functionality.
+E-Commerce-Cart is a general template page for an E-Commerce site whose main feature is its cart functionality.
 
 ## Table of Contents
 
